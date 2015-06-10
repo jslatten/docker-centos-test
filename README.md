@@ -1,7 +1,7 @@
 centospuppet
 ============
 
-Simple CentOS docker image with SSH access along with Puppet Client
+CentOS docker image with SSH access along with Puppet Client
 
 
 Usage
