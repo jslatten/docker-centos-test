@@ -1,1 +1,1 @@
-docker-centos-test ${WORKSPACE}
+docker-centos-test /var/jenkins_home/workspace/Docker-Test/Dockerfile
