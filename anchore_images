@@ -1,1 +1,1 @@
-docker-centos-test .
+docker-centos-test ${WORKSPACE}
